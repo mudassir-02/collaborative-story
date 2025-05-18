@@ -1,1 +1,3 @@
 One day, our GitHub project came to life and started writing code by itself...
+i love python 
+hello world
