@@ -1,4 +1,6 @@
 One day, our GitHub project came to life and started writing code by itself...
+i love python 
+hello world
 My Name is Muhammad Touqeer.
 I am study in UMT.
 I like coding.
